@@ -11,7 +11,7 @@ anyone, anywhere in the world. Paycoin uses a proof-of-stake method in order for
 the Paycoin blockchain network to achieve distributed consensus. Paycoin Core is
 the name of open source software which enables the use of this currency.
 
-The repository for Paycoin Core can be found here: https://github.com/PaycoinFoundation/paycoin.com
+The repository for Paycoin Core can be found here: https://github.com/PaycoinFoundation/paycoin
 
 Contributing
 ------------
