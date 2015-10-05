@@ -1,7 +1,7 @@
 Paycoin.com
 ===========
 
-Official repository for paycoin.com
+Official repository for https://www.paycoin.com
 
 What is Paycoin?
 ----------------
